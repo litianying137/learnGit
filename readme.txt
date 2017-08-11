@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under the GPL.
 
 2017年08月11日11:03:31 新修改
 
